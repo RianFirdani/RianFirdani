@@ -27,7 +27,7 @@ I’m a passionate Fullstack Learner based in Indonesia. I love exploring new te
       <th><img src="https://listemoji.com/img/emoji/using/large-blue-circle-1f535-microsoft.png" width="9" height="9"/> Most Used Languages</th>
     </tr>
     <tr>
-      <td><img height="150" src="https://github-readme-stats.vercel.app/api?username=RianFirdanid&show_icons=true&theme=monokai&rank_icon=github&icon_color=0366d6&hide_border=true&hide_title=true&ring_color=0366d6&bg_color=0D1117"/></td>
+      <td><img height="150" src="https://github-readme-stats.vercel.app/api?username=RianFirdani&show_icons=true&theme=monokai&rank_icon=github&icon_color=0366d6&hide_border=true&hide_title=true&ring_color=0366d6&bg_color=0D1117"/></td>
       <td><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FruHafizd&layout=compact&theme=monokai&count_private=true&hide_border=true&hide_title=true&bg_color=0D1117"/></td>
     </tr>
   </table>
